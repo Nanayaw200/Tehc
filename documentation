@@ -1,0 +1,137 @@
+KWAME NKRUMAH UNIVERSITY OF SCIENCE AND TECHNOLOGY
+KUMASI
+
+COLLEGE OF SCIENCE
+DEPARTMENT OF COMPUTER SCIENCE
+
+
+ 
+
+PROJECT PROPOSAL
+TOPIC: ONLINE MEDICAL AID MOBILE APPLICATION SOFTWARE
+(TECH EDUHEALTH CONNECT) 
+
+BY
+OPOKU EFFAH YAW 8562421
+ODOOM-FYNN ALFRED KWABENA 8560821
+SUPERVISOR:
+DR. ROSE-MARY OWUSUAA MENSAH GYENING
+
+
+
+
+
+
+
+1. Introduction/Background
+
+2. Problem Statement 
+
+3. Problem Scope 
+
+4. Project Aim and Objectives 
+
+5. Justification 
+
+6. Software and Hardware requirements 
+
+7.Timeline
+
+8. Conclusion 
+
+9. References
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.	INTRODUCTION
+
+Our health is one of the most important things in our lives. It affects your physical, mental, and emotional well-being. That's why it's so important to be proactive about your health and take steps to prevent illness and disease (Health Care). Health care is an important determinant in promoting the general physical and mental health and well-being of people around the world. Healthcare is a part of life we all consider to be something we are entitled to – it is our right to have access to healthcare whenever we need it. However, for many people in KNUST, this is simply not an option. Those living in poverty, or dealing with the devastating effects of poor health care delivery systems and economic hardships do not have access to healthcare – even the most basic medical supplies are out of reach for many vulnerable people.
+The proposed Online Medical Aid Software seeks to enhance the swift delivery of health care services and medical supplies digitally to people in the school. This mobile app aims to boost the speed of medical appointments, diagnosis, and also basic health care education to all mobile users.
+
+
+2.	PROBLEM STATEMENT
+
+Healthcare is a part of life we all consider to be something we are entitled to – it is our right to have access to healthcare whenever we need it. However, for many people across the world, this is simply not an option. Those living in poverty, or dealing with the devastating effects of poor health care delivery systems and economic hardships do not have access to healthcare – even the most basic medical supplies are out of reach for many vulnerable people.
+The proposed Online Medical Aid Software seeks to enhance the swift delivery of health care services and medical supplies digitally to people in the school. This mobile app aims to boost the speed of medical appointments, diagnosis, delivery of medicine and health care supplies and also basic health care education to all mobile users.
+
+
+3.	PROBLEM SCOPE
+The project will focus on developing a mobile application specifically design for medical assistance for students in KNUST, with target audience being every smart mobile user in the school.
+ 
+4.	PROJECT AIMS AND OBJECTIVES
+The targets of the Online Medical Aid application are diverse and envelops the following key objectives:
+
+Fast and effective medical consultation: To develop an application that provides an avenue to book appointments with doctors and regulate the period of appointments. This developments aims to control the time wasted in queues or manage consultations in a well-structured manner. 
+
+Virtual Consultations: to develop a space for people to access medical consultations virtually when in need.
+
+Quick and Enhanced Diagnosis: To provide quick access to diagnosis tools virtually and also store medical records for future predictions and determination of diseases.
+
+Health care Literacy and Tips: To provide a platform for interactive learning and research on health related topics. 
+ 
+
+
+
+5.	JUSTIFICATION:
+This mobile app’s ultimate aims and objectives as stated above is important for the implementation of the app because of the following key issues:
+
+Slow and delayed time for medical consultation: Patient wait times at various health centers across the country is prolonged. No one likes to wait—but in healthcare, the consequences of long wait times can be especially severe. They affect everyone involved and can negatively impact patient satisfaction and retention, staff efficiency, providers’ reputations and more. Research shows that the patient experience is heavily influenced by the amount of time spent waiting for care—when wait times go up, satisfaction goes down.
+
+Health Education Illiteracy: The inability to articulate their physical health and symptoms to the healthcare team is problematic. They are likely to experience poor health outcomes following Emergency Room visits or hospitalization due to the inability to comprehend the written consent forms, appointment cards or discharge instructions.
+
+Late Diagnosis: A delayed diagnosis worsens outcomes and has a significant financial impact on families, including paying for doctor visits, medical equipment, prescriptions, and transportation that could have been avoided.
+
+Failure to Address Growing Consumerism Among Patients: There has been a growing consumerism in health care, exemplified by increases in access to health information on the Internet and other media. Largely as a result of the Internet, patients and their families are now better educated and informed about their health care. As a consequence, some patients want to be able to make their own decisions about diagnosis and treatment, bringing their own information and values to bear, with the expectation that, together with their health care providers, they will manage their illness or disease. Many patients, however, have expressed frustration with their inability to participate in decision making, to obtain the information they need, to be heard, and to participate in systems of care that are responsive to their and their families’ and caregivers’ needs and values 
+
+Slow Adoption of Information Technology: Information technology is poised to bring about a significant transformation in the nation’s health system, with the Internet serving as a major agent of change. The health care sector in Ghana in far behind this development still running on file systems. This tends to slow down health care delivery in the country.
+
+
+
+6.	SOFTWARE AND HARDWARE REQUIREMENTS
+To implement the online Medical aid mobile application(Tech Eduhealth Connect), we will need the following hardware and software components:
+Hardware:
+Hardware Devices: A mobile phone, Laptop
+Software:
+Programming Framework: React Native 
+      Programming Languages:
+	Front end: React native with Javascript
+	Backend: Node.js, Prisma (For database) and .env file 
+Good internet Connection.
+
+
+7.	TIMELINE
+Week 1
+1. Project planning and design 
+2. UI/UX Design
+      Week 2
+1. UI/UX Design
+2. Software development
+     Week 3
+1. Software Development
+     Week 4
+1. Code development and upload 
+2. Project testing
+
+
+
+8.	CONCLUSION
+In summary, the Online Medical Aid Software will improve healthcare in world by making medical services quicker and more accessible through a mobile app. It addresses key issues like long wait times, lack of health education, and late diagnoses. With features like virtual consultations and fast diagnostics, this app aims to provide better healthcare for everyone in KNUST.
+
+9.	REFERECNCES
+https://allazohealth.com/resources/timing-is-everything-the-importance-of-taking-medication-on-time/
+https://www.phreesia.com/insights/infographic-the-high-cost-of-long-wait-times/
+
